@@ -1,0 +1,6 @@
+{
+  "name": "玄武湖打卡推荐",
+  "description": "抖音信息流风格的南京玄武湖打卡下一站推荐系统，支持丝滑卡片切换、热门视频预览与丰富音视频与触控交互体验。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
